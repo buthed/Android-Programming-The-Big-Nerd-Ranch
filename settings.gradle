@@ -1,0 +1,3 @@
+include ':app:geoquize'
+include ':app'
+rootProject.name = "Android-Programming-The-Big-Nerd-Ranch"
